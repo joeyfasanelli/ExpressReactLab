@@ -1,0 +1,15 @@
+
+[
+    {
+      "name": "YourDailyZen",
+      "live": "https://joeyfasanelli.github.io/YourDailyZen/",
+      "git": "https://github.com/joeyfasanelli/YourDailyZen",
+      "image": "https://i.imgur.com/H350uTh.png"
+    },
+    {
+      "name": "SynthSense",
+      "live": "https://synth-sense.herokuapp.com/",
+      "git": "https://github.com/joeyfasanelli/SynthSense",
+      "image": "https://i.imgur.com/UI8JBpT.png"
+    }
+  ]
